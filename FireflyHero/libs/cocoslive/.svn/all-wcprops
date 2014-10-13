@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive
+END
+CLScoreServerRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/CLScoreServerRequest.h
+END
+cocoslive.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/cocoslive.m
+END
+CLScoreServerPost.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/CLScoreServerPost.m
+END
+CLScoreServerRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/CLScoreServerRequest.m
+END
+cocoslive.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/cocoslive.h
+END
+CLScoreServerPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/cocoslive/CLScoreServerPost.h
+END

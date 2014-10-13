@@ -1,0 +1,1253 @@
+<root>
+
+<level number="1" heroX="20" heroY="200" lightPenalty="1" maxScore="36" goldScore="20" background="1">
+<star x="300" y="200" />
+<star x="200" y="200" />
+<star x="100" y="200" />
+<light x="389" y="200" lightType="1" />
+<tip x="245" y="110" name="TipLight" />
+</level>
+
+
+<level number="2" heroX="20" heroY="146" lightPenalty="1" maxScore="25" goldScore="20" background="1">
+<light x="268" y="241" lightType="1" />
+<light x="268" y="56" lightType="1" />
+<light x="390" y="146" lightType="1" />
+<star x="275" y="146" />
+<star x="326" y="186" />
+<star x="326" y="106" />
+</level>
+
+
+<level number="3" heroX="20" heroY="102" lightPenalty="1" maxScore="42" goldScore="37" background="1">
+<tip x="240" y="250" name="TipGold" />
+<light x="240" y="170" lightType="1" />
+<light x="405" y="170" lightType="1" />
+<light x="240" y="40" lightType="1" />
+<light x="405" y="40" lightType="1" />
+<star x="300" y="125" />
+<star x="350" y="125" />
+<star x="300" y="80" />
+<star x="350" y="80" />
+</level>
+
+
+<level number="4" heroX="20" heroY="146" lightPenalty="1" maxScore="42" goldScore="36" background="3">
+<light x="150" y="250" lightType="1" />
+<light x="150" y="50" lightType="1" />
+<light x="350" y="50" lightType="1" />
+<light x="350" y="250" lightType="1" />
+<star x="220" y="180" />
+<star x="220" y="120" />
+<star x="280" y="120" />
+<star x="280" y="180" />
+</level>
+
+
+<level number="5" heroX="20" heroY="49" lightPenalty="1" maxScore="31" goldScore="27" background="3">
+<tip x="115" y="242" name="TipRestart" />
+<light x="380" y="236" lightType="1" />
+<light x="380" y="48" lightType="1" />
+<star x="142" y="105" />
+<star x="329" y="105" />
+<star x="239" y="158" />
+</level>
+
+
+<level number="6" heroX="20" heroY="150" lightPenalty="3" maxScore="24" goldScore="21" background="3">
+<light x="380" y="250" lightType="1" />
+<light x="380" y="50" lightType="1" />
+<star x="125" y="150" />
+<star x="325" y="150" />
+<star x="225" y="150" />
+</level>
+
+
+<level number="7" heroX="20" heroY="152" lightPenalty="1" maxScore="36" goldScore="30" background="1">
+<spike x="137" y="152" length="5" angle="90" />
+<light x="90" y="52" lightType="1" />
+<light x="413" y="152" lightType="1" />
+<light x="90" y="252" lightType="1" />
+<tip x="351" y="65" name="TipSpike" />
+<star x="208" y="117" />
+<star x="208" y="197" />
+<star x="300" y="152" />
+</level>
+
+
+<level number="8" heroX="20" heroY="130" lightPenalty="3" maxScore="85" goldScore="77" background="1">
+<tip x="245" y="267" name="TipSkip" />
+<light x="390" y="220" lightType="1" />
+<light x="90" y="220" lightType="1" />
+<light x="390" y="40" lightType="1" />
+<spike x="240" y="130" length="3" angle="0" />
+<light x="90" y="40" lightType="1" />
+<star x="190" y="86" />
+<star x="290" y="84" />
+<star x="320" y="130" />
+<star x="289" y="177" />
+<star x="240" y="200" />
+<star x="189" y="178" />
+<star x="159" y="130" />
+<star x="240" y="60" />
+</level>
+
+
+<level number="9" heroX="20" heroY="230" lightPenalty="3" maxScore="105" goldScore="97" background="2">
+<light x="425" y="70" lightType="1" />
+<light x="27" y="70" lightType="1" />
+<light x="425" y="230" lightType="1" />
+<spike x="98" y="150" length="9" angle="0" />
+<spike x="241" y="150" length="9" angle="0" />
+<star x="90" y="230" />
+<star x="180" y="230" />
+<star x="270" y="230" />
+<star x="360" y="230" />
+<star x="360" y="150" />
+<star x="360" y="70" />
+<star x="270" y="70" />
+<star x="180" y="70" />
+<star x="90" y="70" />
+</level>
+
+
+<level number="10" heroX="20" heroY="150" lightPenalty="3" maxScore="28" goldScore="24" background="2">
+<light x="390" y="250" lightType="1" />
+<light x="390" y="50" lightType="1" />
+<spike x="240" y="228" length="9" angle="0" />
+<spike x="240" y="75" length="9" angle="0" />
+<spike x="315" y="150" length="9" angle="90" />
+<spike x="160" y="196" length="3" angle="90" />
+<spike x="160" y="105" length="3" angle="90" />
+<star x="162" y="150" />
+<star x="86" y="150" />
+<star x="240" y="150" />
+</level>
+
+    <level number="11" heroX="20" heroY="152" lightPenalty="1" maxScore="75" goldScore="66">
+        <spike x="261" y="227" length="9" angle="0" />
+        <spike x="261" y="77" length="9" angle="0" />
+        <spike x="335" y="152" length="9" angle="90" />
+        <spike x="164" y="227" length="3" angle="0" />
+        <spike x="164" y="77" length="3" angle="0" />
+        <light x="390" y="227" lightType="1" />
+        <light x="95" y="77" lightType="1" />
+        
+        <light x="95" y="227" lightType="1" />
+        <light x="390" y="77" lightType="1" />
+        <star x="290" y="122" />
+        <star x="180" y="122" />
+        <star x="235" y="122" />
+        <star x="290" y="182" />
+        <star x="235" y="182" />
+        <star x="180" y="182" />
+    </level>
+    
+    
+    <level number="12" heroX="20" heroY="152" lightPenalty="1" maxScore="63" goldScore="57">
+        <star x="90" y="192" />
+        <light x="90" y="252" lightType="1" />
+        <light x="390" y="252" lightType="1" />
+        <light x="390" y="52" lightType="1" />
+        <light x="90" y="52" lightType="1" />
+        
+        <spike x="170" y="152" length="7" angle="90" />
+        <spike x="310" y="152" length="7" angle="90" />
+        <star x="90" y="112" />
+        <star x="240" y="192" />
+        <star x="240" y="112" />
+        <star x="390" y="192" />
+        <star x="390" y="112" />
+    </level>
+    
+    
+    <level number="13" heroX="20" heroY="64" lightPenalty="1" maxScore="139" goldScore="129">
+        <star x="145" y="64" />
+        <star x="89" y="64" />
+        <star x="201" y="64" />
+        <star x="256" y="76" />
+        <star x="302" y="105" />
+        <star x="327" y="150" />
+        
+        <star x="320" y="197" />
+        <star x="285" y="224" />
+        <star x="245" y="212" />
+        <star x="232" y="174" />
+        <light x="385" y="245" lightType="1" />
+        <light x="156" y="245" lightType="1" />
+        <light x="385" y="64" lightType="1" />
+        <star x="264" y="146" />
+    </level>
+    
+    
+    <level number="14" heroX="20" heroY="147" lightPenalty="1" maxScore="88" goldScore="76">
+        <spike x="231" y="242" length="5" angle="90" />
+        <spike x="230" y="52" length="5" angle="90" />
+        <light x="230" y="147" lightType="1" />
+        <light x="60" y="247" lightType="1" />
+        <light x="60" y="47" lightType="1" />
+        
+        <light x="420" y="47" lightType="1" />
+        <light x="420" y="247" lightType="1" />
+        <star x="175" y="222" />
+        <star x="140" y="187" />
+        <star x="140" y="107" />
+        <star x="175" y="72" />
+        <star x="285" y="72" />
+        <star x="285" y="222" />
+        <star x="321" y="187" />
+        <star x="320" y="107" />
+        <spike x="120" y="147" length="5" angle="0" />
+        <spike x="350" y="147" length="5" angle="0" />
+    </level>
+    
+    
+    <level number="15" heroX="20" heroY="148" lightPenalty="1" maxScore="84" goldScore="74">
+        <spike x="120" y="188" length="9" angle="0" />
+        
+        <spike x="362" y="188" length="9" angle="0" />
+        <spike x="120" y="108" length="9" angle="0" />
+        <spike x="362" y="108" length="9" angle="0" />
+        <star x="100" y="148" />
+        <star x="170" y="148" />
+        <star x="240" y="148" />
+        <star x="380" y="148" />
+        <light x="445" y="148" lightType="1" />
+        <light x="240" y="258" lightType="1" />
+        <light x="240" y="38" lightType="1" />
+        <star x="240" y="208" />
+        <star x="240" y="88" />
+        <star x="310" y="148" />
+        <spike x="195" y="218" length="3" angle="90" />
+        <spike x="285" y="218" length="3" angle="90" />
+        <spike x="195" y="78" length="3" angle="90" />
+        <spike x="285" y="78" length="3" angle="90" />
+        
+    </level>
+    
+    
+    <level number="16" heroX="20" heroY="195" lightPenalty="1" maxScore="121" goldScore="112">
+        <spike x="116" y="235" length="9" angle="0" />
+        <spike x="259" y="235" length="9" angle="0" />
+        <light x="442" y="150" lightType="1" />
+        <light x="356" y="32" lightType="1" />
+        <light x="30" y="110" lightType="1" />
+        <spike x="116" y="150" length="9" angle="0" />
+        <spike x="259" y="150" length="9" angle="0" />
+        <spike x="358" y="235" length="3" angle="0" />
+        <spike x="396" y="150" length="9" angle="90" />
+        <spike x="116" y="70" length="9" angle="0" />
+        <spike x="259" y="70" length="9" angle="0" />
+        <spike x="358" y="70" length="3" angle="0" />
+        <light x="356" y="274" lightType="1" />
+        <star x="80" y="195" />
+        <star x="148" y="195" />
+        <star x="216" y="195" />
+        <star x="283" y="195" />
+        <star x="352" y="195" />
+        <star x="80" y="110" />
+        <star x="148" y="110" />
+        <star x="216" y="110" />
+        <star x="283" y="110" />
+        <star x="352" y="110" />
+    </level>
+
+
+
+<level number="17" heroX="20" heroY="149" lightPenalty="1" maxScore="30" goldScore="28" background="1">
+<light x="215" y="64" lightType="2" />
+<light x="65" y="238" lightType="1" />
+<light x="215" y="234" lightType="1" />
+<tip x="364" y="147" name="TipBrokenLight" />
+<star x="215" y="149" />
+<star x="140" y="221" />
+<star x="140" y="149" />
+</level>
+
+
+<level number="18" heroX="20" heroY="149" lightPenalty="1" maxScore="31" goldScore="27" background="4">
+<light x="270" y="239" lightType="2" />
+<light x="270" y="59" lightType="2" />
+<light x="395" y="149" lightType="1" />
+<star x="270" y="149" />
+<star x="330" y="109" />
+<star x="330" y="189" />
+</level>
+
+
+<level number="19" heroX="20" heroY="150" lightPenalty="4" maxScore="38" goldScore="32" background="4">
+<light x="330" y="240" lightType="2" />
+<light x="410" y="240" lightType="1" />
+<light x="250" y="240" lightType="2" />
+<light x="250" y="60" lightType="2" />
+<light x="330" y="60" lightType="2" />
+<light x="410" y="60" lightType="1" />
+<spike x="118" y="240" length="9" angle="0" />
+<spike x="118" y="60" length="9" angle="0" />
+<star x="170" y="150" />
+<star x="90" y="150" />
+<star x="250" y="150" />
+<star x="330" y="150" />
+<star x="410" y="150" />
+</level>
+
+
+<level number="20" heroX="20" heroY="149" lightPenalty="3" maxScore="114" goldScore="100" background="1">
+<light x="400" y="51" lightType="2" />
+<light x="400" y="241" lightType="1" />
+<light x="80" y="241" lightType="1" />
+<light x="240" y="51" lightType="1" />
+<light x="80" y="51" lightType="2" />
+<spike x="240" y="267" length="7" angle="0" />
+<spike x="240" y="134" length="5" angle="90" />
+<star x="125" y="141" />
+<star x="186" y="217" />
+<star x="240" y="222" />
+<star x="148" y="186" />
+<star x="119" y="92" />
+<star x="292" y="215" />
+<star x="328" y="180" />
+<star x="348" y="136" />
+<star x="356" y="90" />
+</level>
+
+
+
+<level number="21" heroX="20" heroY="150" lightPenalty="3" maxScore="48" goldScore="40" background="1">
+<spike x="100" y="200" length="3" angle="90" />
+<light x="100" y="260" lightType="2" />
+<light x="230" y="260" lightType="1" />
+<spike x="360" y="200" length="3" angle="90" />
+<light x="360" y="260" lightType="2" />
+<light x="100" y="40" lightType="2" />
+<light x="230" y="40" lightType="1" />
+<spike x="100" y="100" length="3" angle="90" />
+<spike x="360" y="100" length="3" angle="90" />
+<light x="360" y="40" lightType="2" />
+<light x="430" y="150" lightType="1" />
+<star x="165" y="200" />
+<star x="295" y="200" />
+<star x="165" y="100" />
+<star x="165" y="150" />
+<star x="295" y="150" />
+<star x="295" y="100" />
+</level>
+        
+        
+        <level number="22" heroX="20" heroY="148" lightPenalty="3" maxScore="93" goldScore="84">
+            <star x="240" y="208" />
+            <light x="80" y="257" lightType="2" />
+            <light x="160" y="258" lightType="2" />
+            <light x="240" y="258" lightType="2" />
+            <light x="320" y="258" lightType="2" />
+            <light x="400" y="258" lightType="2" />
+            <light x="80" y="38" lightType="2" />
+            <light x="160" y="38" lightType="2" />
+            <light x="240" y="38" lightType="2" />
+            <light x="320" y="38" lightType="2" />
+            <light x="400" y="38" lightType="2" />
+            <star x="160" y="208" />
+            <star x="320" y="208" />
+            <star x="400" y="208" />
+            <star x="80" y="208" />
+            <star x="80" y="88" />
+            <star x="160" y="88" />
+            <star x="240" y="88" />
+            <star x="320" y="88" />
+            <star x="400" y="88" />
+        </level>
+        
+        
+        <level number="23" heroX="20" heroY="155" lightPenalty="3" maxScore="148" goldScore="139">
+            <star x="198" y="219" />
+            <star x="165" y="191" />
+            <star x="240" y="230" />
+            <star x="284" y="220" />
+            <star x="314" y="190" />
+            <star x="330" y="155" />
+            <star x="315" y="110" />
+            <star x="283" y="87" />
+            <star x="242" y="75" />
+            
+            <star x="200" y="86" />
+            <star x="165" y="115" />
+            <light x="375" y="250" lightType="2" />
+            <light x="90" y="250" lightType="2" />
+            <light x="90" y="50" lightType="2" />
+            <light x="443" y="155" lightType="2" />
+            <light x="375" y="50" lightType="2" />
+            <star x="150" y="155" />
+        </level>
+        
+        
+        <level number="24" heroX="20" heroY="152" lightPenalty="1" maxScore="53" goldScore="45">
+            <star x="305" y="212" />
+            <light x="390" y="242" lightType="2" />
+            <light x="390" y="57" lightType="2" />
+            <star x="305" y="92" />
+            <light x="110" y="242" lightType="2" />
+            
+            <light x="110" y="57" lightType="2" />
+            <star x="200" y="232" />
+            <star x="200" y="72" />
+            <star x="199" y="152" />
+            <spike x="305" y="152" length="3" angle="90" />
+            <light x="433" y="152" lightType="1" />
+        </level>
+        
+        
+        <level number="25" heroX="20" heroY="153" lightPenalty="2" maxScore="33" goldScore="30">
+            <star x="315" y="154" />
+            <light x="138" y="37" lightType="1" />
+            <spike x="155" y="150" length="7" angle="90" />
+            <star x="207" y="179" />
+            <star x="209" y="127" />
+            <spike x="255" y="153" length="3" angle="90" />
+            <light x="138" y="263" lightType="2" />
+            
+            <light x="380" y="153" lightType="2" />
+        </level>
+
+
+<level number="26" heroX="20" heroY="150" lightPenalty="1" maxScore="78" goldScore="69" background="1">
+<light x="80" y="250" lightType="1" />
+<light x="359" y="40" lightType="1" />
+<light x="360" y="260" lightType="1" />
+<light x="80" y="50" lightType="1" />
+<spike x="165" y="150" length="9" angle="0" />
+<spike x="360" y="150" length="9" angle="90" />
+<light x="424" y="150" lightType="1" />
+<star x="317" y="150" />
+<star x="265" y="100" />
+<star x="265" y="200" />
+<star x="210" y="53" />
+<star x="210" y="244" />
+<star x="150" y="200" />
+<star x="150" y="100" />
+</level>
+
+
+<level number="27" heroX="20" heroY="150" lightPenalty="1" maxScore="20" goldScore="18" background="3">
+<light x="70" y="240" lightType="1" />
+<light x="260" y="240" lightType="1" />
+<light x="260" y="60" lightType="1" />
+<light x="70" y="60" lightType="1" />
+<spider speed="2" points="165, 255,  165, 40" />
+<tip x="385" y="147" name="TipSpider" />
+<star x="260" y="150" />
+<star x="70" y="150" />
+</level>
+
+
+<level number="28" heroX="20" heroY="148" lightPenalty="4" maxScore="48" goldScore="43" background="3">
+<spider speed="2" points="150, 250,  330, 250,  330, 50,  150, 50,  150, 250" />
+<light x="81" y="250" lightType="1" />
+<light x="80" y="50" lightType="1" />
+<light x="400" y="250" lightType="1" />
+<light x="400" y="50" lightType="1" />
+<star x="190" y="150" />
+<star x="80" y="150" />
+<star x="400" y="150" />
+<star x="240" y="200" />
+<star x="290" y="150" />
+<star x="240" y="100" />
+</level>
+
+
+<level number="29" heroX="20" heroY="150" lightPenalty="3" maxScore="60" goldScore="54" background="2">
+<spider speed="1" points="292, 250,  178, 50" />
+<light x="85" y="250" lightType="1" />
+<light x="85" y="50" lightType="1" />
+<light x="395" y="50" lightType="1" />
+<light x="395" y="250" lightType="1" />
+<star x="193" y="244" />
+<star x="155" y="182" />
+<star x="351" y="184" />
+<star x="115" y="120" />
+<star x="314" y="120" />
+<star x="278" y="56" />
+</level>
+
+
+<level number="30" heroX="20" heroY="147" lightPenalty="4" maxScore="80" goldScore="72" background="2">
+<spider speed="2" points="80, 230,  380, 185" />
+<light x="380" y="35" lightType="1" />
+<light x="380" y="270" lightType="1" />
+<spider speed="2" points="80, 70,  380, 115" />
+<star x="380" y="220" />
+<star x="380" y="150" />
+<star x="320" y="150" />
+<star x="380" y="84" />
+<star x="200" y="150" />
+<star x="80" y="150" />
+<star x="140" y="150" />
+<star x="260" y="150" />
+</level>
+    
+    
+    <level number="31" heroX="20" heroY="158" lightPenalty="1" maxScore="43" goldScore="37">
+        
+        <star x="240" y="158" />
+        <spider speed="2" points="240, 223,  160, 158,  240, 93,  320, 158,  240, 223" />
+        <light x="85" y="253" lightType="1" />
+        <light x="85" y="53" lightType="1" />
+        <light x="400" y="253" lightType="1" />
+        <light x="400" y="53" lightType="1" />
+        <star x="85" y="158" />
+        <star x="400" y="158" />
+        <star x="240" y="53" />
+    </level>
+    
+    
+    <level number="32" heroX="20" heroY="147" lightPenalty="1" maxScore="45" goldScore="37">
+        <spider speed="3" points="170, 217,  310, 217,  310, 77,  170, 77" />
+        <light x="432" y="147" lightType="1" />
+        <star x="240" y="107" />
+        <star x="120" y="147" />
+        
+        <star x="240" y="187" />
+        <star x="360" y="147" />
+        <light x="240" y="37" lightType="1" />
+        <light x="240" y="257" lightType="1" />
+    </level>
+    
+    
+    <level number="33" heroX="20" heroY="150" lightPenalty="1" maxScore="37" goldScore="34">
+        <spike x="139" y="150" length="7" angle="0" />
+        <spike x="323" y="150" length="7" angle="0" />
+        <spider speed="2" points="170, 240,  291, 60" />
+        <light x="55" y="240" lightType="1" />
+        <light x="56" y="61" lightType="1" />
+        <light x="410" y="240" lightType="1" />
+        <light x="410" y="60" lightType="1" />
+        <star x="105" y="198" />
+        <star x="103" y="99" />
+        
+        <star x="360" y="202" />
+        <star x="359" y="102" />
+    </level>
+    
+    
+    <level number="34" heroX="20" heroY="152" lightPenalty="1" maxScore="31" goldScore="26">
+        <spider speed="3" points="160, 222,  240, 92,  320, 222" />
+        <star x="240" y="199" />
+        <star x="360" y="152" />
+        <light x="400" y="242" lightType="1" />
+        <light x="90" y="62" lightType="1" />
+        <light x="400" y="62" lightType="1" />
+        <light x="90" y="242" lightType="1" />
+        <star x="120" y="152" />
+    </level>
+    
+    
+    <level number="35" heroX="20" heroY="190" lightPenalty="1" maxScore="65" goldScore="58">
+        <spider speed="2" points="82, 153,  414, 153" />
+        <light x="350" y="253" lightType="1" />
+        <light x="350" y="53" lightType="1" />
+        <light x="150" y="253" lightType="1" />
+        <light x="150" y="53" lightType="1" />
+        <star x="300" y="193" />
+        <star x="200" y="113" />
+        <star x="300" y="113" />
+        <star x="200" y="193" />
+        <star x="250" y="253" />
+        <star x="250" y="53" />
+    </level>
+    
+    
+    <level number="36" heroX="20" heroY="147" lightPenalty="1" maxScore="62" goldScore="57">
+        <spider speed="1" points="180, 247,  180, 47" />
+        
+        <light x="447" y="187" lightType="1" />
+        <light x="447" y="107" lightType="1" />
+        <star x="75" y="167" />
+        <star x="125" y="127" />
+        <spike x="240" y="202" length="5" angle="0" />
+        <spike x="240" y="87" length="5" angle="0" />
+        <spider speed="1" points="300, 47,  300, 247" />
+        <spike x="370" y="202" length="7" angle="0" />
+        <spike x="371" y="87" length="7" angle="0" />
+        <spike x="110" y="87" length="7" angle="0" />
+        <spike x="110" y="202" length="7" angle="0" />
+        <star x="215" y="167" />
+        <star x="265" y="127" />
+        <star x="340" y="167" />
+        <star x="390" y="127" />
+        <light x="50" y="247" lightType="1" />
+        <light x="50" y="47" lightType="1" />
+        
+    </level>
+    
+    
+    <level number="37" heroX="20" heroY="150" lightPenalty="4" maxScore="38" goldScore="34">
+        <star x="250" y="200" />
+        <spider speed="3" points="225, 268,  225, 235,  150, 150,  225, 60,  225, 25" />
+        <spider speed="3" points="275, 268,  275, 235,  350, 150,  275, 60,  275, 25" />
+        <star x="210" y="150" />
+        <star x="290" y="150" />
+        <star x="250" y="100" />
+        <light x="400" y="235" lightType="2" />
+        <light x="400" y="60" lightType="2" />
+        <light x="100" y="235" lightType="2" />
+        <light x="100" y="60" lightType="2" />
+        
+    </level>
+    
+    <level number="38" heroX="20" heroY="153" lightPenalty="2" maxScore="33" goldScore="30">
+        <star x="315" y="154" />
+        <light x="138" y="37" lightType="1" />
+        <spike x="155" y="150" length="7" angle="90" />
+        <star x="207" y="179" />
+        <star x="209" y="127" />
+        <spike x="255" y="153" length="3" angle="90" />
+        <light x="138" y="263" lightType="2" />
+        
+        <light x="380" y="153" lightType="2" />
+    </level>
+    
+    
+    <level number="39" heroX="20" heroY="150" lightPenalty="1" maxScore="20" goldScore="18">
+        <star x="260" y="150" />
+        <light x="70" y="240" lightType="1" />
+        <light x="260" y="240" lightType="1" />
+        <light x="260" y="60" lightType="1" />
+        <light x="70" y="60" lightType="1" />
+        <star x="70" y="150" />
+        <spider speed="2" points="165, 255,  165, 40" />
+    </level>
+    
+    
+    <level number="40" heroX="20" heroY="175" lightPenalty="1" maxScore="30" goldScore="27">
+        
+        <tip x="240" y="33" name="TipLightIntermittent" />
+        <star x="355" y="215" />
+        <light x="270" y="265" lightType="4" interval="3" />
+        <light x="269" y="85" lightType="4" interval="3" />
+        <light x="422" y="175" lightType="4" interval="1" />
+        <star x="355" y="135" />
+        <star x="308" y="175" />
+    </level>
+    
+    
+    <level number="41" heroX="20" heroY="152" lightPenalty="1" maxScore="33" goldScore="28">
+        <star x="300" y="152" />
+        <light x="390" y="232" lightType="4" interval="1" />
+        <light x="390" y="72" lightType="4" interval="4" />
+        <star x="100" y="152" />
+        <star x="200" y="152" />
+    </level>
+    
+    
+    <level number="42" heroX="20" heroY="149" lightPenalty="3" maxScore="70" goldScore="64">
+        <star x="380" y="149" />
+        <light x="120" y="249" lightType="4" interval="1" />
+        <light x="250" y="249" lightType="4" interval="2" />
+        <light x="380" y="249" lightType="4" interval="3" />
+        <light x="120" y="49" lightType="4" interval="6" />
+        <light x="250" y="49" lightType="4" interval="5" />
+        <light x="380" y="49" lightType="4" interval="4" />
+        <star x="120" y="149" />
+        <star x="250" y="149" />
+        <star x="185" y="209" />
+        <star x="185" y="89" />
+        <star x="315" y="209" />
+        <star x="315" y="89" />
+    </level>
+    
+    
+    <level number="43" heroX="20" heroY="147" lightPenalty="4" maxScore="35" goldScore="28">
+        <light x="239" y="52" lightType="1" />
+        <light x="242" y="242" lightType="1" />
+        <light x="364" y="147" lightType="4" interval="2" />
+        <light x="105" y="147" lightType="4" interval="2" />
+        <star x="306" y="195" />
+        <star x="305" y="105" />
+        <star x="178" y="194" />
+        <star x="178" y="104" />
+        <spike x="241" y="147" length="5" angle="90" />
+    </level>
+    
+    
+    <level number="44" heroX="20" heroY="154" lightPenalty="3" maxScore="88" goldScore="79">
+        <star x="165" y="154" />
+        
+        <star x="194" y="197" />
+        <star x="240" y="220" />
+        <star x="287" y="196" />
+        <star x="315" y="154" />
+        <star x="288" y="110" />
+        <star x="240" y="89" />
+        <star x="194" y="111" />
+        <light x="130" y="54" lightType="4" interval="1" />
+        <light x="350" y="54" lightType="4" interval="2" />
+        <light x="350" y="254" lightType="4" interval="3" />
+        <light x="130" y="254" lightType="4" interval="4" />
+        <spike x="240" y="154" length="3" angle="0" />
+    </level>
+    
+    
+    <level number="45" heroX="20" heroY="149" lightPenalty="1" maxScore="34" goldScore="27">
+        <star x="330" y="149" />
+        <spider speed="3" points="285, 194,  375, 194,  375, 104,  285, 104,  285, 194" />
+        <light x="436" y="149" lightType="4" interval="7" />
+        <light x="265" y="44" lightType="4" interval="2" />
+        <light x="260" y="254" lightType="4" interval="2" />
+        <star x="100" y="149" />
+        <star x="190" y="149" />
+    </level>
+    
+    <level number="46" heroX="20" heroY="160" lightPenalty="1" maxScore="54" goldScore="48">
+        <star x="325" y="199" />
+        <spike x="120" y="210" length="3" angle="90" />
+        <spike x="210" y="210" length="3" angle="90" />
+        <spike x="280" y="210" length="3" angle="90" />
+        <spike x="370" y="210" length="3" angle="90" />
+        <spike x="210" y="100" length="3" angle="90" />
+        <spike x="280" y="100" length="3" angle="90" />
+        <spike x="370" y="101" length="3" angle="90" />
+        <spike x="120" y="100" length="3" angle="90" />
+        <spike x="165" y="241" length="5" angle="0" />
+        <spike x="325" y="240" length="5" angle="0" />
+        <spike x="165" y="70" length="5" angle="0" />
+        <spike x="326" y="69" length="5" angle="0" />
+        <star x="165" y="203" />
+        <star x="165" y="112" />
+        <star x="326" y="111" />
+        <light x="420" y="240" lightType="1" />
+        <light x="420" y="70" lightType="1" />
+        <light x="65" y="241" lightType="1" />
+        <light x="65" y="70" lightType="1" />
+        <star x="164" y="157" />
+        <star x="325" y="154" />
+    </level>
+    
+    
+    
+    <level number="47" heroX="20" heroY="130" lightPenalty="3" maxScore="57" goldScore="50">
+        <tip x="240" y="260" name="TipFlower" />
+        <flower x="75" y="23" interval="2" delay="1" />
+        
+        <flower x="220" y="23" interval="2" delay="2" />
+        <flower x="365" y="23" interval="2" delay="3" />
+        <light x="148" y="205" lightType="1" />
+        <light x="293" y="205" lightType="1" />
+        <light x="438" y="205" lightType="1" />
+        <light x="148" y="55" lightType="1" />
+        <light x="293" y="55" lightType="1" />
+        <light x="438" y="55" lightType="1" />
+        <star x="293" y="150" />
+        <star x="148" y="150" />
+        <star x="148" y="110" />
+        <star x="293" y="110" />
+        <star x="438" y="150" />
+        <star x="438" y="110" />
+    </level>
+    
+    
+    <level number="48" heroX="20" heroY="151" lightPenalty="3" maxScore="59" goldScore="52">
+        <star x="95" y="151" />
+        <flower x="153" y="23" interval="2" delay="1" />
+        <star x="215" y="186" />
+        <star x="215" y="116" />
+        <star x="340" y="211" />
+        <star x="340" y="151" />
+        <star x="340" y="91" />
+        <light x="410" y="251" lightType="1" />
+        <light x="410" y="51" lightType="1" />
+        <flower x="276" y="23" interval="2" delay="2" />
+        <light x="65" y="216" lightType="1" />
+        <light x="64" y="86" lightType="1" />
+    </level>
+    
+    
+    <level number="49" heroX="20" heroY="160" lightPenalty="1" maxScore="97" goldScore="90">
+        
+        <flower x="230" y="23" interval="2" delay="1" />
+        <flower x="115" y="23" interval="2" delay="1" />
+        <star x="88" y="160" />
+        <star x="146" y="160" />
+        <star x="202" y="160" />
+        <star x="263" y="160" />
+        <star x="319" y="159" />
+        <star x="378" y="160" />
+        <spike x="60" y="210" length="5" angle="0" />
+        <spike x="58" y="110" length="5" angle="0" />
+        <spike x="175" y="210" length="5" angle="0" />
+        <spike x="172" y="110" length="5" angle="0" />
+        <spike x="290" y="210" length="5" angle="0" />
+        <spike x="288" y="110" length="5" angle="0" />
+        <spike x="401" y="210" length="5" angle="0" />
+        <spike x="403" y="110" length="5" angle="0" />
+        <flower x="345" y="23" interval="2" delay="1" />
+        
+        <light x="444" y="160" lightType="4" interval="2" />
+    </level>
+    
+    
+    <level number="50" heroX="20" heroY="160" lightPenalty="3" maxScore="135" goldScore="126">
+        <star x="120" y="210" />
+        <star x="200" y="210" />
+        <star x="280" y="210" />
+        <star x="120" y="160" />
+        <star x="200" y="160" />
+        <star x="280" y="160" />
+        <star x="360" y="160" />
+        <star x="120" y="110" />
+        <star x="200" y="110" />
+        <star x="280" y="110" />
+        <star x="360" y="110" />
+        <flower x="160" y="23" interval="2" delay="1" />
+        <flower x="240" y="23" interval="2" delay="1" />
+        <flower x="320" y="23" interval="2" delay="1" />
+        <light x="120" y="260" lightType="2" />
+        <light x="200" y="260" lightType="2" />
+        <light x="280" y="260" lightType="2" />
+        <light x="360" y="260" lightType="2" />
+        <light x="120" y="50" lightType="2" />
+        <light x="200" y="50" lightType="2" />
+        <light x="280" y="50" lightType="2" />
+        <light x="360" y="50" lightType="2" />
+        <star x="360" y="210" />
+    </level>
+    
+    
+    
+    <level number="51" heroX="20" heroY="250" lightPenalty="7" maxScore="240" goldScore="228">
+        <flower x="119" y="23" interval="2" delay="1" />
+        <flower x="240" y="23" interval="2" delay="2" />
+        <flower x="360" y="23" interval="2" delay="1" />
+        <star x="90" y="250" />
+        <star x="150" y="250" />
+        <star x="210" y="250" />
+        <star x="270" y="250" />
+        <star x="329" y="250" />
+        <star x="390" y="250" />
+        <star x="390" y="160" />
+        <star x="330" y="160" />
+        <star x="270" y="160" />
+        <star x="210" y="160" />
+        <star x="151" y="160" />
+        <star x="90" y="160" />
+        <star x="390" y="70" />
+        <star x="330" y="70" />
+        <star x="270" y="70" />
+        <star x="210" y="70" />
+        <star x="150" y="70" />
+        <star x="90" y="70" />
+        <light x="450" y="250" lightType="1" />
+        <light x="450" y="160" lightType="1" />
+        <light x="450" y="70" lightType="1" />
+        <light x="30" y="160" lightType="1" />
+        <light x="30" y="70" lightType="1" />
+    </level>
+    
+    
+    <level number="52" heroX="20" heroY="157" lightPenalty="3" maxScore="37" goldScore="31">
+        <star x="200" y="157" />
+        <flower x="150" y="23" interval="2" delay="1" />
+        <flower x="250" y="23" interval="2" delay="2" />
+        <flower x="350" y="23" interval="2" delay="3" />
+        <light x="420" y="247" lightType="4" interval="2" />
+        <light x="420" y="67" lightType="4" interval="1" />
+        <star x="100" y="157" />
+        <star x="300" y="157" />
+        <star x="400" y="157" />
+        <light x="70" y="247" lightType="4" interval="1" />
+        <light x="70" y="67" lightType="4" interval="2" />
+    </level>
+    
+    
+    <level number="53" heroX="20" heroY="160" lightPenalty="4" maxScore="55" goldScore="50">
+        <spike x="120" y="165" length="7" angle="0" />
+        <spike x="240" y="92" length="7" angle="0" />
+        <spike x="360" y="165" length="7" angle="0" />
+        <spike x="240" y="220" length="7" angle="90" />
+        <light x="240" y="44" lightType="1" />
+        <light x="430" y="210" lightType="1" />
+        <light x="50" y="210" lightType="1" />
+        <star x="280" y="255" />
+        <star x="280" y="200" />
+        <star x="280" y="145" />
+        <star x="200" y="145" />
+        <star x="200" y="200" />
+        <star x="200" y="255" />
+        <light x="360" y="260" lightType="1" />
+        
+        <light x="120" y="260" lightType="1" />
+    </level>
+    
+    
+    <level number="54" heroX="20" heroY="156" lightPenalty="3" maxScore="60" goldScore="54">
+        <star x="280" y="156" />
+        <spike x="105" y="191" length="9" angle="0" />
+        <spike x="245" y="191" length="9" angle="0" />
+        <spike x="386" y="191" length="9" angle="0" />
+        <spike x="106" y="121" length="9" angle="0" />
+        <spike x="246" y="121" length="9" angle="0" />
+        <spike x="386" y="121" length="9" angle="0" />
+        <star x="80" y="156" />
+        <star x="130" y="156" />
+        <star x="180" y="156" />
+        <star x="230" y="156" />
+        <star x="330" y="156" />
+        
+        <star x="380" y="155" />
+        <light x="410" y="241" lightType="1" />
+        <light x="410" y="71" lightType="1" />
+    </level>
+    
+    
+    <level number="55" heroX="20" heroY="152" lightPenalty="3" maxScore="150" goldScore="140">
+        <light x="80" y="252" lightType="1" />
+        <light x="80" y="52" lightType="1" />
+        <light x="410" y="52" lightType="1" />
+        <light x="410" y="252" lightType="1" />
+        <spider speed="3" points="180, 252,  180, 152,  300, 152,  300, 252" />
+        <star x="100" y="202" />
+        <star x="100" y="152" />
+        <star x="100" y="102" />
+        <star x="180" y="72" />
+        <star x="240" y="72" />
+        
+        <star x="301" y="72" />
+        <star x="390" y="102" />
+        <star x="390" y="152" />
+        <star x="390" y="202" />
+        <star x="265" y="224" />
+        <star x="265" y="182" />
+        <star x="220" y="224" />
+        <star x="220" y="182" />
+    </level>
+    
+    
+    <level number="56" heroX="20" heroY="160" lightPenalty="4" maxScore="94" goldScore="88">
+        <star x="200" y="210" />
+        <flower x="370" y="23" interval="2" delay="2" />
+        <flower x="440" y="23" interval="2" delay="2" />
+        <flower x="145" y="23" interval="2" delay="1" />
+        <flower x="75" y="23" interval="2" delay="1" />
+        <star x="250" y="210" />
+        <star x="300" y="210" />
+        <star x="200" y="160" />
+        <star x="250" y="160" />
+        <star x="300" y="160" />
+        <star x="200" y="110" />
+        <star x="250" y="110" />
+        <star x="300" y="110" />
+        <light x="110" y="80" lightType="4" interval="3" />
+        <light x="110" y="240" lightType="4" interval="3" />
+        <light x="405" y="240" lightType="4" interval="2" />
+        <light x="405" y="80" lightType="4" interval="2" />
+    </level>
+    
+    
+    <level number="57" heroX="20" heroY="150" lightPenalty="3" maxScore="24" goldScore="21">
+        <spike x="384" y="148" length="9" angle="90" />
+        <spike x="287" y="195" length="3" angle="90" />
+        <spike x="290" y="105" length="3" angle="90" />
+        <light x="430" y="220" lightType="1" />
+        <light x="430" y="80" lightType="1" />
+        <star x="143" y="150" />
+        <spike x="193" y="195" length="3" angle="90" />
+        <spike x="190" y="105" length="3" angle="90" />
+        <star x="239" y="150" />
+        <star x="337" y="150" />
+        <spike x="336" y="227" length="5" angle="0" />
+        <spike x="337" y="73" length="5" angle="0" />
+        <spike x="240" y="73" length="5" angle="0" />
+        <spike x="240" y="227" length="5" angle="0" />
+        <spike x="143" y="227" length="5" angle="0" />
+        <spike x="143" y="73" length="5" angle="0" />
+        <spike x="96" y="194" length="3" angle="90" />
+        <spike x="96" y="105" length="3" angle="90" />
+    </level>
+    
+    
+    <level number="58" heroX="20" heroY="165" lightPenalty="3" maxScore="50" goldScore="44">
+        <star x="120" y="106" />
+        <spider speed="2" points="60, 246,  60, 46" />
+        <spider speed="2" points="180, 46,  180, 246" />
+        <spider speed="2" points="300, 246,  300, 46" />
+        <spider speed="2" points="420, 46,  420, 246" />
+        <star x="120" y="186" />
+        <star x="240" y="186" />
+        <star x="240" y="106" />
+        <light x="120" y="246" lightType="1" />
+        <light x="120" y="46" lightType="1" />
+        <light x="240" y="246" lightType="1" />
+        <light x="240" y="46" lightType="1" />
+        <light x="360" y="245" lightType="1" />
+        <light x="360" y="46" lightType="1" />
+        <star x="360" y="186" />
+        <star x="360" y="106" />
+    </level>
+    
+    
+    <level number="59" heroX="20" heroY="144" lightPenalty="1" maxScore="60" goldScore="53">
+        <spike x="100" y="234" length="3" angle="90" />
+        <spike x="100" y="54" length="3" angle="90" />
+        <spike x="170" y="144" length="3" angle="90" />
+        <spike x="240" y="54" length="3" angle="90" />
+        <spike x="240" y="234" length="3" angle="90" />
+        <spike x="310" y="144" length="3" angle="90" />
+        <spike x="380" y="54" length="3" angle="90" />
+        <spike x="380" y="234" length="3" angle="90" />
+        <star x="100" y="144" />
+        <star x="170" y="234" />
+        <star x="170" y="54" />
+        <star x="240" y="144" />
+        <star x="310" y="234" />
+        <star x="310" y="54" />
+        <star x="380" y="144" />
+        <light x="445" y="234" lightType="1" />
+        <light x="445" y="54" lightType="1" />
+        <light x="35" y="54" lightType="1" />
+        <light x="35" y="234" lightType="1" />
+    </level>
+    
+    
+    <level number="60" heroX="20" heroY="150" lightPenalty="2" maxScore="34" goldScore="28">
+        <spike x="115" y="210" length="7" angle="0" />
+        <spike x="228" y="210" length="7" angle="0" />
+        <spike x="340" y="210" length="7" angle="0" />
+        <spike x="116" y="90" length="7" angle="0" />
+        <spike x="228" y="90" length="7" angle="0" />
+        <spike x="341" y="90" length="7" angle="0" />
+        <spike x="401" y="150" length="7" angle="90" />
+        <star x="100" y="150" />
+        <star x="160" y="150" />
+        <star x="220" y="150" />
+        <star x="280" y="150" />
+        <star x="340" y="150" />
+        <light x="120" y="250" lightType="4" interval="1" />
+        <light x="420" y="50" lightType="4" interval="3" />
+        <light x="420" y="250" lightType="4" interval="2" />
+        <light x="120" y="50" lightType="4" interval="4" />
+    </level>
+    
+    <level number="61" heroX="20" heroY="150" lightPenalty="4" maxScore="66" goldScore="58">
+        <star x="180" y="200" />
+        <light x="60" y="240" lightType="1" />
+        <light x="420" y="240" lightType="1" />
+        <light x="60" y="50" lightType="1" />
+        <light x="420" y="50" lightType="1" />
+        <spike x="60" y="200" length="3" angle="0" />
+        <spike x="60" y="90" length="3" angle="0" />
+        
+        <spike x="420" y="200" length="3" angle="0" />
+        <spike x="420" y="90" length="3" angle="0" />
+        <spike x="100" y="240" length="3" angle="90" />
+        <spike x="100" y="50" length="3" angle="90" />
+        <spike x="380" y="50" length="3" angle="90" />
+        <spike x="380" y="240" length="3" angle="90" />
+        <star x="97" y="150" />
+        <star x="300" y="200" />
+        <star x="180" y="100" />
+        <star x="300" y="100" />
+        <star x="380" y="150" />
+        <star x="240" y="250" />
+        <star x="240" y="50" />
+        <spike x="240" y="150" length="3" angle="0" />
+        <flower x="160" y="23" interval="2" delay="1" />
+        <flower x="320" y="23" interval="2" delay="2" />
+    </level>
+    
+    
+    <level number="62" heroX="20" heroY="150" lightPenalty="4" maxScore="80" goldScore="72">
+        <star x="80" y="180" />
+        <light x="60" y="240" lightType="1" />
+        <light x="420" y="240" lightType="1" />
+        <light x="60" y="60" lightType="1" />
+        <light x="420" y="60" lightType="1" />
+        <star x="80" y="120" />
+        <star x="400" y="180" />
+        <star x="400" y="120" />
+        <star x="220" y="170" />
+        <star x="260" y="170" />
+        <star x="220" y="130" />
+        <star x="260" y="130" />
+        <spike x="240" y="260" length="5" angle="0" />
+        <spike x="240" y="50" length="5" angle="0" />
+        <spike x="140" y="150" length="5" angle="90" />
+        <spike x="340" y="150" length="5" angle="90" />
+        <spider speed="3" points="240, 230,  170, 150,  240, 80,  310, 150,  240, 230" />
+    </level>
+    
+    
+       
+    <level number="63" heroX="20" heroY="249" lightPenalty="1" maxScore="46" goldScore="39">
+        <star x="354" y="208" />
+        <light x="400" y="49" lightType="1" />
+        <light x="400" y="249" lightType="1" />
+        <star x="200" y="149" />
+        <star x="121" y="96" />
+        <spider speed="2" points="240, 269,  240, 29" />
+        <star x="280" y="149" />
+        <light x="65" y="49" lightType="2" />
+    </level>
+    
+    
+        
+    
+    
+    <level number="64" heroX="20" heroY="150" lightPenalty="1" maxScore="63" goldScore="56">
+        <spike x="100" y="190" length="5" angle="0" />
+        <spike x="240" y="190" length="5" angle="0" />
+        <spike x="380" y="190" length="5" angle="0" />
+        <spike x="100" y="110" length="5" angle="0" />
+        <spike x="240" y="110" length="5" angle="0" />
+        <spike x="380" y="110" length="5" angle="0" />
+        <star x="170" y="185" />
+        <star x="311" y="185" />
+        <star x="170" y="115" />
+        <star x="310" y="115" />
+        <light x="444" y="150" lightType="1" />
+        <light x="170" y="245" lightType="2" />
+        <light x="310" y="50" lightType="2" />
+        <star x="100" y="150" />
+        <star x="380" y="150" />
+        <light x="170" y="55" lightType="2" />
+        <light x="310" y="245" lightType="2" />
+    </level>
+    
+    <level number="65" heroX="20" heroY="148" lightPenalty="3" maxScore="77" goldScore="71">
+        <star x="130" y="175" />
+        <spike x="155" y="218" length="5" angle="0" />
+        <spike x="155" y="78" length="5" angle="0" />
+        <spike x="345" y="218" length="5" angle="0" />
+        <spike x="345" y="79" length="5" angle="0" />
+        <spike x="85" y="148" length="5" angle="90" />
+        <spike x="225" y="148" length="5" angle="90" />
+        <spike x="415" y="148" length="5" angle="90" />
+        <spike x="275" y="148" length="5" angle="90" />
+        <star x="181" y="175" />
+        <star x="130" y="122" />
+        
+        <star x="180" y="123" />
+        <star x="318" y="178" />
+        <star x="370" y="179" />
+        <star x="318" y="122" />
+        <star x="371" y="122" />
+        <light x="440" y="228" lightType="1" />
+        <light x="440" y="58" lightType="1" />
+        <light x="50" y="228" lightType="1" />
+        <light x="50" y="58" lightType="1" />
+    </level>
+    
+    <level number="66" heroX="20" heroY="160" lightPenalty="3" maxScore="39" goldScore="32">
+        <star x="240" y="250" />
+        <light x="370" y="250" lightType="1" />
+        <light x="100" y="250" lightType="2" />
+        <light x="100" y="70" lightType="2" />
+        <star x="370" y="160" />
+        <light x="370" y="70" lightType="1" />
+        <star x="240" y="70" />
+        <spike x="240" y="206" length="5" angle="0" />
+        <spike x="240" y="114" length="5" angle="0" />
+        <flower x="170" y="23" interval="2" delay="1" />
+        <flower x="320" y="23" interval="2" delay="2" />
+        <star x="240" y="160" />
+        <star x="127" y="160" />
+        <spike x="285" y="160" length="5" angle="90" />
+    </level>
+    
+    
+    <level number="67" heroX="20" heroY="160" lightPenalty="4" maxScore="60" goldScore="54">
+        <flower x="186" y="23" interval="3" delay="1" />
+        <flower x="295" y="23" interval="3" delay="1" />
+        <spider speed="1" points="340, 268,  340, 42" />
+        <star x="385" y="183" />
+        <star x="385" y="132" />
+        <star x="215" y="200" />
+        <star x="265" y="200" />
+        <star x="215" y="90" />
+        <star x="265" y="90" />
+        <light x="90" y="80" lightType="2" />
+        <light x="90" y="230" lightType="2" />
+        <light x="420" y="80" lightType="2" />
+        <light x="420" y="230" lightType="1" />
+    </level>
+    
+    
+    
+    <level number="68" heroX="20" heroY="230" lightPenalty="1" maxScore="260" goldScore="246">
+        <star x="100" y="230" />
+        <spike x="194" y="260" length="9" angle="0" />
+        <spike x="336" y="260" length="9" angle="0" />
+        <spike x="146" y="200" length="9" angle="0" />
+        <spike x="288" y="200" length="9" angle="0" />
+        <spike x="333" y="140" length="9" angle="0" />
+        <spike x="191" y="140" length="9" angle="0" />
+        
+        <spike x="382" y="80" length="3" angle="0" />
+        <spike x="409" y="200" length="7" angle="90" />
+        <spike x="69" y="140" length="7" angle="90" />
+        <spike x="143" y="80" length="9" angle="0" />
+        <spike x="284" y="80" length="9" angle="0" />
+        <spike x="94" y="260" length="3" angle="0" />
+        <star x="155" y="230" />
+        <star x="210" y="230" />
+        <star x="265" y="230" />
+        <star x="320" y="230" />
+        <star x="375" y="230" />
+        <star x="375" y="170" />
+        <star x="320" y="170" />
+        <star x="265" y="170" />
+        <star x="210" y="170" />
+        <star x="155" y="170" />
+        <star x="100" y="170" />
+        
+        <star x="100" y="110" />
+        <star x="155" y="110" />
+        <star x="210" y="110" />
+        <star x="265" y="110" />
+        <star x="320" y="110" />
+        <star x="375" y="110" />
+        <light x="446" y="230" lightType="4" interval="1" />
+        <light x="28" y="170" lightType="4" interval="4" />
+        <light x="446" y="111" lightType="4" interval="3" />
+        <light x="100" y="40" lightType="4" interval="3" />
+        <light x="375" y="40" lightType="4" interval="2" />
+    </level>
+    
+    
+    <level number="69" heroX="20" heroY="158" lightPenalty="1" maxScore="105" goldScore="93">
+        <star x="340" y="158" />
+        <flower x="90" y="23" interval="4" delay="1" />
+        <flower x="190" y="23" interval="4" delay="2" />
+        <flower x="290" y="23" interval="4" delay="3" />
+        <flower x="390" y="23" interval="4" delay="4" />
+        <light x="440" y="238" lightType="4" interval="1" />
+        <light x="440" y="78" lightType="4" interval="2" />
+        <light x="45" y="238" lightType="4" interval="2" />
+        <light x="45" y="78" lightType="4" interval="1" />
+        <star x="140" y="158" />
+        <star x="240" y="158" />
+        <star x="340" y="238" />
+        <star x="240" y="238" />
+        <star x="140" y="238" />
+        
+        <star x="140" y="78" />
+        <star x="240" y="78" />
+        <star x="340" y="78" />
+    </level>
+    
+    <level number="70" heroX="20" heroY="165" lightPenalty="3" maxScore="45" goldScore="40">
+        <star x="210" y="110" />
+        <spider speed="2" points="69, 250,  140, 50" />
+        <spider speed="2" points="210, 250,  280, 50" />
+        <spider speed="2" points="350, 250,  420, 50" />
+        <star x="140" y="190" />
+        <star x="280" y="190" />
+        <star x="350" y="110" />
+        <light x="140" y="250" lightType="2" />
+        <light x="210" y="50" lightType="2" />
+        <light x="280" y="250" lightType="2" />
+        <light x="350" y="51" lightType="2" />
+        <light x="420" y="250" lightType="2" />
+        
+        <light x="70" y="50" lightType="2" />
+        <star x="70" y="110" />
+    </level>
+
+</root>

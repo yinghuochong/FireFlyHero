@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion
+END
+CDConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CDConfig.h
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CocosDenshion.h
+END
+SimpleAudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/SimpleAudioEngine.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CDOpenALSupport.h
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CDAudioManager.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CocosDenshion.m
+END
+SimpleAudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/SimpleAudioEngine.m
+END
+CDOpenALSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CDOpenALSupport.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/1000phone/!svn/ver/612/iOS/trunk/iOS/Game/cocos2dgame/Cocos2DGame/libs/CocosDenshion/CDAudioManager.m
+END
